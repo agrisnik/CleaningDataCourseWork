@@ -1,6 +1,6 @@
 ﻿# tidy_Data_avg.txt - Code book
 ###Overview
-This document describes data set in file tidy_Data_avg.txt, which is a part of ourcomes from course "Getting and Cleaning data" provided by online learning community Coursera. The data set is produced automatically by R script "run_analysis.R" that should be available in the same directory or GitHub repository as this document. 
+This document describes data set in file tidy_Data_avg.txt, which is a part of outcomes from course "Getting and Cleaning data" provided by online learning community Coursera. The data set is produced automatically by R script "run_analysis.R" that should be available in the same directory or GitHub repository as this document. 
 The data set and the mentioned R script is produced by **Agris Nikitenko** in February 2015. 
 ###Data semantics
 THe data have been produced automatically from raw data collected within the research on "Human Activity Recognition Using Smartphones Dataset". The authors of the research are:
